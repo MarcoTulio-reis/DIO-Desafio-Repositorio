@@ -1,0 +1,17 @@
+#title, .subtitle, .post_title{
+    color:blue;
+}
+
+body{
+    background:aqua
+}
+
+.conteudo{
+    background-color: aliceblue;
+    text-align: center;
+    
+}
+.post_title{
+    font-size: 16px;
+    font-style: italic;
+}
