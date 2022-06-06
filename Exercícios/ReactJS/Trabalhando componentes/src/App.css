@@ -1,0 +1,9 @@
+* {
+    padding: 10px;
+    margin: 0;
+}
+
+.main-text {
+    text-align: center;
+    color: green;
+}
